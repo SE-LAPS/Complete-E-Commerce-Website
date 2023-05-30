@@ -40,8 +40,8 @@
 ![login](https://github.com/SE-LAPS/Complete-E-Commerce-Website/assets/87580847/d6ce6491-26e6-47f3-a4a8-50576e077b1f)
 <br>
 <h3>13.Regiter</h3>
-<br><br>
-
+![register](https://github.com/SE-LAPS/Complete-E-Commerce-Website/assets/87580847/80cdfe5d-1166-4877-8f9b-018d1e9f6955)
+<br>
 <h2>Admin Sections </h2>
 
 <h3>01.Admin-Update-Profile</h3>
